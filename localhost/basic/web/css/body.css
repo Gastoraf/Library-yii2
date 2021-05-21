@@ -1,0 +1,7 @@
+body {
+  background: url(../img/1-w.jpg) !important;
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+}
